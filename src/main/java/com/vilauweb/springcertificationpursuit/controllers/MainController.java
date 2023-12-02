@@ -11,4 +11,9 @@ public class MainController {
         return "index";
     }
 
+    @GetMapping("/landing")
+    public String landing() {
+        return "landing";
+    }
+
 }
