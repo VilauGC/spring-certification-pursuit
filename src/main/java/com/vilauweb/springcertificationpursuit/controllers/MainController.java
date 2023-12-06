@@ -11,9 +11,9 @@ public class MainController {
         return "index";
     }
 
-    @GetMapping("/landing")
-    public String landing() {
-        return "landing";
+    @GetMapping("/section1")
+    public String section1(){
+        return "section1";
     }
 
 }
