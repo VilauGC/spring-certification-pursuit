@@ -2419,3 +2419,11 @@ section {
 #footer .credits a {
   color: #f6b024;
 }
+
+.core-tech-badge {
+  border: 1px solid limegreen;
+  border-radius: 3px;
+  background-color: #80ea6e;
+  font-size: .7rem;
+  padding: 2px 5px;
+}
