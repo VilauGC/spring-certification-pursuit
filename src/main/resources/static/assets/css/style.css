@@ -2427,3 +2427,11 @@ section {
   font-size: .7rem;
   padding: 2px 5px;
 }
+
+.spring-security-badge {
+  border: 1px solid limegreen;
+  border-radius: 3px;
+  background-color: #ea6ed9;
+  font-size: .7rem;
+  padding: 2px 5px;
+}

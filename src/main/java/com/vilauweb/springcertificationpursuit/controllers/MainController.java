@@ -16,4 +16,9 @@ public class MainController {
         return "section1";
     }
 
+    @GetMapping("/section5")
+    public String section5() {
+        return "section5security";
+    }
+
 }
