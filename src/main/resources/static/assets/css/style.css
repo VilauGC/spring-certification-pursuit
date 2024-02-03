@@ -2428,6 +2428,15 @@ section {
   padding: 2px 5px;
 }
 
+.core-tech-badge-aop {
+  border: 1px solid #6f42c1;
+  border-radius: 3px;
+  background-color: #6f42c1;
+  font-size: .7rem;
+  padding: 2px 5px;
+  color: white;
+}
+
 .spring-security-badge {
   border: 1px solid limegreen;
   border-radius: 3px;
